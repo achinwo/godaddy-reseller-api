@@ -1,0 +1,28 @@
+{
+  "name": "godaddy-reseller-api",
+  "version": "1.0.0",
+  "description": "perform all Godaddy reseller actions via nice a promise-based api that is actively developed and used by CodeAndPush.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achinwo/godaddy-reseller-api.git"
+  },
+  "keywords": [
+    "godaddy",
+    "domainer",
+    "reseller",
+    "webdomainsellers",
+    "codeandpush",
+    "cap",
+    "domainr"
+  ],
+  "author": "Web Domain Sellers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/achinwo/godaddy-reseller-api/issues"
+  },
+  "homepage": "https://github.com/achinwo/godaddy-reseller-api#readme"
+}
